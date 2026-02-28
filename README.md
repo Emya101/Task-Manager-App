@@ -1,12 +1,72 @@
-# React + Vite
+Task Manager Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live Demo: https://emya101.github.io/React-To-Do-List/
 
-Currently, two official plugins are available:
+A full-stack task management web application that allows users to create, organize, and manage tasks through a responsive interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project was built to practice full-stack development concepts including REST API communication, frontend state management, and scalable application architecture.
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Add new tasks
+- Edit existing tasks
+- Mark tasks as completed
+- Delete tasks
+- Responsive UI for desktop and mobile
+- Dynamic updates without page refresh
+
+## Tech Stack
+
+Frontend
+- React
+- Vite
+- JavaScript
+- CSS
+
+Backend
+- Node.js
+- Express.js
+- REST API architecture
+
+Tools
+- Git
+- GitHub
+- VS Code
+
+## Installation
+
+Clone the repository
+
+git clone https://github.com/Emya101/React-To-Do-List
+
+Navigate into the project
+
+cd your-repo-name
+
+Install dependencies
+
+npm install
+
+Run the development server
+
+npm run dev
+
+## What I Learned
+
+- Building component-based interfaces with React
+- Managing application state and user input
+- Structuring REST APIs
+- Debugging and troubleshooting application logic
+- Using Git for version control
+
+## Future Improvements
+
+- User authentication
+- Persistent database storage
+- Task categories and filtering
+- Cloud deployment
+
+## Author
+
+Supreme Emhenya  
+Applied Computer Science Graduate
