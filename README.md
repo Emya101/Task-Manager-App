@@ -1,12 +1,12 @@
 Task Manager Web Application
 
-Live Demo: https://emya101.github.io/React-To-Do-List/
+Live Demo: https://emya101.github.io/Task-Manager-App/
 
 A full-stack task management web application that allows users to create, organize, and manage tasks through a responsive interface.
 
 This project was built to practice full-stack development concepts including REST API communication, frontend state management, and scalable application architecture.
 
-## Features
+The Features Include:
 
 - Add new tasks
 - Edit existing tasks
@@ -15,7 +15,7 @@ This project was built to practice full-stack development concepts including RES
 - Responsive UI for desktop and mobile
 - Dynamic updates without page refresh
 
-## Tech Stack
+Tech Stack invloved:
 
 Frontend
 - React
@@ -33,15 +33,15 @@ Tools
 - GitHub
 - VS Code
 
-## Installation
+Guide to Installation
 
 Clone the repository
 
-git clone https://github.com/Emya101/React-To-Do-List
+git clone https://github.com/Emya101/Task-Manager-App
 
 Navigate into the project
 
-cd your-repo-name
+cd latest
 
 Install dependencies
 
@@ -51,7 +51,7 @@ Run the development server
 
 npm run dev
 
-## What I Learned
+What I Learned
 
 - Building component-based interfaces with React
 - Managing application state and user input
@@ -59,7 +59,7 @@ npm run dev
 - Debugging and troubleshooting application logic
 - Using Git for version control
 
-## Future Improvements
+Future Improvements
 
 - User authentication
 - Persistent database storage
